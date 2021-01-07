@@ -4,6 +4,6 @@
 
 
 ## Notes
-### lsit Wireless Communicaiton and Signal Processing
-[channel models][https://github.com/lishengxiangzz/lishengxiangzz.github.io/blob/main/notes.ipynb]
+### Wireless Communicaiton and Signal Processing
+[channel models](https://github.com/lishengxiangzz/lishengxiangzz.github.io/blob/main/notes.ipynb)
 
